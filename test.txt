@@ -1,2 +1,3 @@
 # A new file to test with
+# and add a second line to this file
 
