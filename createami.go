@@ -224,5 +224,4 @@ func getBkupInstances(svc *ec2.EC2, tagname string) chan *faBkupInstance {
 }
 
 /*
-Added a line here
-*/
+ */
