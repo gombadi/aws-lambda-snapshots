@@ -14,4 +14,6 @@ Download this repo into your Go Path and create a base Lambda function giving it
 Set up a cron entry to trigger the Lambda function when you want it to run - Note Lambda crons use UTC as the time base.
 
 Add support for github SNS services - in release branch
+adding a line to merge to master
+
 
